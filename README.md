@@ -1,4 +1,4 @@
-# Medi Lanka - Hospital Management System 2026
+# Medi Lanka - Enterprise Hospital Management System (HMS) v2026
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)
@@ -10,12 +10,12 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 
 ---
 
-## 🏛️ System Architecture & Core Modules
+## 🚀 Key Features & Modules
 
-- **Command Center Dashboard**: Real-time telemetry monitoring active patient influx, ICU bed occupancy rates, on-duty physician rosters, and critical emergency alerts.
-- **Patient Registry & Admissions**: Comprehensive tracking of patient diagnostic logs, room/ward allocations, and medical progression states (Critical, Stable, Recovering).
-- **Secure Authentication & Access Control**: Built with PHP Sessions and PDO/MySQLi Prepared Statements to mitigate SQL Injection and unauthorized privilege escalations.
-- **Responsive Dark UI/UX**: Designed using advanced CSS variables, glassmorphic layout principles, and optimized typography (`Inter` & `Plus Jakarta Sans`) for seamless multi-device deployment.
+- **Ultra-Modern 2026 UI/UX**: Clean, eye-care dark theme designed specifically to prevent eye fatigue during long hospital shifts.
+- **Command Center Dashboard**: Real-time telemetry monitoring active patient influx, ICU bed occupancy rates, and on-duty physician rosters.
+- **Secure Authentication**: Built with PHP Sessions and MySQLi Prepared Statements to mitigate SQL Injection and unauthorized access.
+- **Patient & Ward Management**: Comprehensive tracking of patient diagnostic logs, room/ward allocations, and medical progression states.
 
 ---
 
@@ -26,8 +26,8 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Bootstrap Icons |
 | **Typography** | Google Fonts (`Inter`, `Plus Jakarta Sans`) |
 | **Backend** | PHP (Object-Oriented & Procedural Hybrid Architecture) |
-| **Database** | MySQL (Managed via phpMyAdmin) |
-| **Environment** | XAMPP (Apache HTTP Server) |
+| **Database** | MySQL (Managed via phpMyAdmin / XAMPP) |
+| **Environment** | XAMPP (Apache HTTP Server & MySQL Database Server) |
 
 ---
 
