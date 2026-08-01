@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xamp/htdocs/hospital_system/db.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/index.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/dashboard.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/logout.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/patients.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/doctors.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/appointments.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/edit_appointment.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/print_appointment.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/prescriptions.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/billing.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/print_invoice.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/doctor_schedules.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/patient_documents.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/patient_portal.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/doctor_portal.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/pharmacy.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/laboratory.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/beds.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/notifications.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/download_bill.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/staff_payroll.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/manage_patients.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/manage_doctors.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/manage_appointments.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/manage_prescriptions.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/inventory.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_bill.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_inventory.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_payroll.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/wards.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_ward.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_patient.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_doctor.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_appointment.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_schedule.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_prescription.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/add_laboratory.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/edit_doctor.php</file>
+            <file>file:/D:/xamp/htdocs/hospital_system/edit_patient.php</file>
+        </group>
+    </open-files>
+</project-private>
