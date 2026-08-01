@@ -1,43 +1,43 @@
-# Medi Lanka - Hospital Management System (HMS) 2026
+# Medi Lanka - Enterprise Hospital Management System (HMS) v2026
 
-A next-generation, high-end enterprise healthcare intelligence platform designed with a modern **Eye-Care Dark Mode UI**, robust security, and real-time medical command center capabilities.
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)
+![Database](https://img.shields.io/badge/Database-MySQL%208.x-orange)
+![UI Framework](https://img.shields.io/badge/UI-Bootstrap%205%20%7C%20Dark%20Eye--Care-purple)
+![Security](https://img.shields.io/badge/Security-Prepared%20Statements%20%7C%20Secure%20Sessions-red)
 
-![Project Banner](https://img.shields.io/badge/Status-Active-success)
-![PHP](https://img.shields.io/badge/PHP-8.x-blue)
-![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
-![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-purple)
-
-## 🚀 Key Features
-
-- **Ultra-Modern 2026 UI / UX**: Clean, professional layout tailored for medical environments with an eye-care dark theme.
-- **Command Center Dashboard**: Real-time metrics overview including active patients, ICU occupancy, on-duty doctors, and emergency alerts.
-- **Secure Authentication**: Robust PHP session-based login with prepared statements ensuring high security against SQL injection.
-- **Patient & Ward Management**: Comprehensive tracking of patient registry, room/ward statuses, and clinical records.
+An advanced, high-performance **Enterprise Healthcare Intelligence Platform** engineered for modern medical command centers. It features an ultra-modern **Eye-Care Dark Mode UI** to minimize physician eye strain during night shifts, coupled with real-time operational metrics and robust data security layers.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏛️ System Architecture & Core Modules
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5, Google Fonts (Inter, Plus Jakarta Sans)
-- **Icons**: Bootstrap Icons
-- **Backend**: PHP
-- **Database**: MySQL (phpMyAdmin)
-
----
-
-## 🔑 Default Login Credentials (For Reviewers & Testing)
-
-If you are reviewing this project, you can use the following default credentials to log into the system:
-
-- **Staff ID / Username:** `admin`
-- **Password:** `admin123`
+- **Command Center Dashboard**: Real-time telemetry monitoring active patient influx, ICU bed occupancy rates, on-duty physician rosters, and critical emergency alerts.
+- **Patient Registry & Admissions**: Comprehensive tracking of patient diagnostic logs, room/ward allocations, and medical progression states (Critical, Stable, Recovering).
+- **Secure Authentication & Access Control**: Built with PHP Sessions and PDO/MySQLi Prepared Statements to mitigate SQL Injection and unauthorized privilege escalations.
+- **Responsive Dark UI/UX**: Designed using advanced CSS variables, glassmorphic layout principles, and optimized typography (`Inter` & `Plus Jakarta Sans`) for seamless multi-device deployment.
 
 ---
 
-## ⚙️ How to Run and Test Locally (For Evaluators)
+## 🛠️ Technology Stack
 
-Follow these steps to run the project locally on your machine using XAMPP:
+| Layer | Technology Used |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Bootstrap Icons |
+| **Typography** | Google Fonts (`Inter`, `Plus Jakarta Sans`) |
+| **Backend** | PHP (Object-Oriented & Procedural Hybrid Architecture) |
+| **Database** | MySQL (Managed via phpMyAdmin) |
+| **Environment** | XAMPP (Apache HTTP Server) |
 
-1. **Clone or Download Repository**
-   ```bash
-   git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
+---
+
+## 📂 Project Directory Structure
+
+```text
+hospital_system/
+│
+├── index.php              # Secure Login Portal (Eye-Care Dark Theme)
+├── dashboard.php          # Real-time Medical Command Center
+├── db.php                 # Database Connection & Configuration Handler
+├── logout.php             # Session Termination & Security Cleanup
+└── assets/                # Stylesheets, Custom Scripts, and Media Files
