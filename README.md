@@ -25,7 +25,16 @@ A next-generation, high-end enterprise healthcare intelligence platform designed
 
 ---
 
-## ⚙️ Installation & Setup
+## 🔑 Default Login Credentials (For Reviewers & Testing)
+
+If you are reviewing this project, you can use the following default credentials to log into the system:
+
+- **Staff ID / Username:** `admin`
+- **Password:** `admin123`
+
+---
+
+## ⚙️ How to Run and Test Locally (For Evaluators)
 
 Follow these steps to run the project locally on your machine using XAMPP:
 
