@@ -60,7 +60,12 @@
 
 ---
 
-## ⚙️ How to Run Locally
+## 🔑 Default Login Credentials & Quick Start Guide
+
+> **Staff ID / Username:** `admin`  
+> **Password:** `admin123`
+
+### ⚙️ Quick Start Guide
 
 1. **Clone the repository:**
    ```bash
