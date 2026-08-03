@@ -9,6 +9,19 @@
 An advanced, high-performance **Enterprise Healthcare Intelligence Platform** engineered for modern medical command centers. It features an ultra-modern **Eye-Care Dark Mode UI** for login and high-contrast, clean professional light layouts for clinical modules to maximize efficiency during intensive hospital shifts.
 
 ---
+## 🔑 Default Login Credentials & Quick Start Guide
+
+> **Staff ID / Username:** `admin`  
+> **Password:** `admin123`
+
+### ⚙️ Quick Start Guide
+
+1. Open the **XAMPP Control Panel** and click **Start** next to both **Apache** and **MySQL**.
+2. Ensure your project folder (`hospital_system`) is placed inside the XAMPP `htdocs` directory (e.g., `C:\xampp\htdocs\hospital_system\`).
+3. Open your web browser, navigate to `http://localhost/phpmyadmin`, create a new database named **`hms_db`**, and import the required SQL schema/data files.
+4. Open your web browser and load the application URL:
+   ```text
+   http://localhost/hospital_system/
 
 ## 📸 System Screenshots & Module Gallery
 
