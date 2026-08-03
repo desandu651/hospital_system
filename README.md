@@ -46,9 +46,10 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 <img width="1920" height="1198" alt="billing and invoice" src="https://github.com/user-attachments/assets/6e94d8bf-b8c5-4ca0-ba62-1166cc538214" />
  
 
-### 8. Patient Billing & Invoices
+### 9. Payroll & Staff
 
-| ![Billing & Invoices](assets/images/billing.png) |
+<img width="1920" height="1198" alt="payroll and stff" src="https://github.com/user-attachments/assets/54879cc5-cc75-4628-83a7-92ed07e42abc" />
+ 
 
 ### 8. Patient Billing & Invoices
 
