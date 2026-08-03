@@ -25,7 +25,7 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 
 <img width="1920" height="1198" alt="patients_directory" src="https://github.com/user-attachments/assets/aa8c8b28-9cc5-441c-aaf3-04ffdd2faa91" />
 
-### s
+### 4. Doctors Staff
  <img width="1920" height="1198" alt="doctors_staff" src="https://github.com/user-attachments/assets/e922fc1b-a3e3-4341-ade6-5643c3cbd876" />
  
 
