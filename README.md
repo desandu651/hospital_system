@@ -1,14 +1,18 @@
+<div align="center">
+
 # 🏥 Medi Lanka - Enterprise Hospital Management System (HMS) v2026
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success" alt="Status">
-  <img src="https://img.shields.io/badge/PHP-8.2%2B-blue" alt="PHP Version">
-  <img src="https://img.shields.io/badge/Database-MySQL%208.x-orange" alt="Database">
-  <img src="https://img.shields.io/badge/UI-Bootstrap%205%20%7C%20Dark%20Eye--Care-purple" alt="UI Framework">
-  <img src="https://img.shields.io/badge/Security-Prepared%20Statements%20%7C%20Secure%20Sessions-red" alt="Security">
-</p>
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https://github.com/desandu651/hospital_system)
+[![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue?style=for-the-badge)](https://php.net)
+[![Database](https://img.shields.io/badge/Database-MySQL%208.x-orange?style=for-the-badge)](https://mysql.com)
+[![UI Framework](https://img.shields.io/badge/UI-Bootstrap%205%20%7C%20Dark%20Eye--Care-purple?style=for-the-badge)](https://getbootstrap.com)
+[![Security](https://img.shields.io/badge/Security-Prepared%20Statements%20%7C%20Secure%20Sessions-red?style=for-the-badge)](https://github.com/desandu651/hospital_system)
 
-An advanced, high-performance **Enterprise Healthcare Intelligence Platform** engineered for modern medical command centers. It features an ultra-modern **Eye-Care Dark Mode UI** for login and high-contrast, clean professional light layouts for clinical modules to maximize efficiency during intensive hospital shifts
+An advanced, high-performance **Enterprise Healthcare Intelligence Platform** engineered for modern medical command centers. Featuring an ultra-modern **Eye-Care Dark Mode UI** for login and high-contrast, clean professional light layouts for clinical modules.
+
+</div>
+
+---
 
 ---
 ## 🔑 Default Login Credentials & Quick Start Guide
