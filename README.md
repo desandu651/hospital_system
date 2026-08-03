@@ -2,19 +2,13 @@
 
 # 🏥 Medi Lanka -Hospital Management System 2026
 
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https://github.com/desandu651/hospital_system)
-[![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue?style=for-the-badge)](https://php.net)
-[![Database](https://img.shields.io/badge/Database-MySQL%208.x-orange?style=for-the-badge)](https://mysql.com)
-[![UI Framework](https://img.shields.io/badge/UI-Bootstrap%205%20%7C%20Dark%20Eye--Care-purple?style=for-the-badge)](https://getbootstrap.com)
-[![Security](https://img.shields.io/badge/Security-Prepared%20Statements%20%7C%20Secure%20Sessions-red?style=for-the-badge)](https://github.com/desandu651/hospital_system)
-
-An advanced, high-performance **Enterprise Healthcare Intelligence Platform** engineered for modern medical command centers. Featuring an ultra-modern **Eye-Care Dark Mode UI** for login and high-contrast, clean professional light layouts for clinical modules.
-
 </div>
 
 ---
 
 ---
+
+
 ## 🔑 Default Login Credentials & Quick Start Guide
 
 > **Staff ID / Username:** `admin`  
@@ -28,6 +22,12 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 4. Open your web browser and load the application URL:
    ```text
    http://localhost/hospital_system/
+
+   ## ⚙️ How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
 
 ## 📸 System Screenshots & Module Gallery
 
