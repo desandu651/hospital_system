@@ -17,7 +17,8 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 ### 1. Secure Authentication Portal
 | Secure Login Interface |
 | :---: |
-| ![Login Portal](assets/images/login_screenshot.png) |
+| ![Login Portal](<img width="1920" height="1140" alt="login_screenshot" src="https://github.com/user-attachments/assets/e75986b6-974a-4cc2-bc4c-c14aadc3238e" />
+) |
 
 ### 2. Executive Command Center & Dashboard Analytics
 | Dashboard Overview & Quick Metrics | Financial Analytics & Calendar |
