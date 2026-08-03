@@ -1,4 +1,4 @@
-# 🏥 Medi Lanka - Enterprise Hospital Management System (HMS) v2026
+<img width="1920" height="1198" alt="patients_directory" src="https://github.com/user-attachments/assets/3e8f708d-a3a3-47c8-824a-eab5b9e7ffae" /># 🏥 Medi Lanka - Enterprise Hospital Management System (HMS) v2026
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)
@@ -34,7 +34,10 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 ### 3. Clinical Management Modules
 | Patients Directory | Doctors Staff Directory |
 | :---: | :---: |
-| ![Patients Directory](assets/images/patients_directory.png) | ![Doctors Staff](assets/images/doctors_staff.png) |
+| ![Pation Directory](<img width="1920" height="1198" alt="patients_directory" src="https://github.com/user-attachments/assets/230f533a-fa67-4dae-a02c-fef3a55e052d" />
+) |
+ | ![Doctors Staff]<img width="1920" height="1198" alt="doctors_staff" src="https://github.com/user-attachments/assets/e922fc1b-a3e3-4341-ade6-5643c3cbd876" />
+ |
 
 | Appointments Queue | Doctor Working Schedules |
 | :---: | :---: |
