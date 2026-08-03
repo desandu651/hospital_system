@@ -21,13 +21,12 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 <img width="1920" height="1198" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e4014e6a-04b8-4d01-ba61-2ebd51ba1e2c" />
  <img width="1920" height="1198" alt="dashboard_analytics" src="https://github.com/user-attachments/assets/2733cb91-e2df-40ad-a5c2-aa8753fc1678" />
  
-### 3. Clinical Management Modules
-| Patients Directory | Doctors Staff Directory |
-| :---: | :---: |
-| ![Pation Directory](<img width="1920" height="1198" alt="patients_directory" src="https://github.com/user-attachments/assets/230f533a-fa67-4dae-a02c-fef3a55e052d" />
+### 3. Patients Directory & Doctors Staff Directory
+
+ ![Pation Directory](<img width="1920" height="1198" alt="patients_directory" src="https://github.com/user-attachments/assets/230f533a-fa67-4dae-a02c-fef3a55e052d" />
 ) |
- | ![Doctors Staff]<img width="1920" height="1198" alt="doctors_staff" src="https://github.com/user-attachments/assets/e922fc1b-a3e3-4341-ade6-5643c3cbd876" />
- |
+  ![Doctors Staff]<img width="1920" height="1198" alt="doctors_staff" src="https://github.com/user-attachments/assets/e922fc1b-a3e3-4341-ade6-5643c3cbd876" />
+ 
 
 | Appointments Queue | Doctor Working Schedules |
 | :---: | :---: |
