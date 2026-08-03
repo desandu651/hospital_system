@@ -18,7 +18,7 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 | Secure Login Interface |
 | :---: |
 | <img width="1920" height="1140" alt="login_screenshot" src="https://github.com/user-attachments/assets/e75986b6-974a-4cc2-bc4c-c14aadc3238e" />
- |
+ 
 
 ### 2. Executive Command Center & Dashboard Analytics
 | Dashboard Overview & Quick Metrics | Financial Analytics & Calendar |
@@ -26,11 +26,6 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 | ![Dashboard Overview]<img width="1920" height="1198" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e4014e6a-04b8-4d01-ba61-2ebd51ba1e2c" />
  |<img width="1920" height="1198" alt="dashboard_analytics" src="https://github.com/user-attachments/assets/2733cb91-e2df-40ad-a5c2-aa8753fc1678" />
  
-
-| Recent Appointments & System Audit Logs |
-| :---: |
-| ![Dashboard Activity](assets/images/dashboard_activity.png) |
-
 ### 3. Clinical Management Modules
 | Patients Directory | Doctors Staff Directory |
 | :---: | :---: |
