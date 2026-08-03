@@ -64,7 +64,7 @@
 
 1. **Clone or download the repository:**
    ```bash
-   git clone https://github.com/desandu651/hospital_system.git
+   git clone https://github.com/desandu651/hospital_system
 
 
 ## ⚙️ Prerequisites & Quick Start Guide
