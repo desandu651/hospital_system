@@ -60,14 +60,21 @@
 
 ---
 
+### 🚀 Installation Steps
+
+1. **Clone or download the repository:**
+   ```bash
+   git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
+
+
 ## ⚙️ Prerequisites & Quick Start Guide
 
 ### 📋 System Prerequisites
 * **XAMPP** (or any local PHP/MySQL server environment) with **PHP 8.2+** and **MySQL 8.x** installed.
 * Active **Apache** and **MySQL** services running.
 
-### 🚀 Installation Steps
+## 🔑 Default Login Credentials & Quick Start Guide
 
-1. **Clone or download the repository:**
-   ```bash
-   git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
+> **Staff ID / Username:** `admin`  
+> **Password:** `admin123`
+
