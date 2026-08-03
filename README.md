@@ -83,7 +83,18 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 <img width="1920" height="1198" alt="doctor portal" src="https://github.com/user-attachments/assets/4bfff04a-c35b-4896-8f9a-67526d345b06" />
  
 
+## ⚙️ Local Installation & Setup Guide
 
+To run and evaluate this system locally on your machine, follow these technical steps:
+
+### Prerequisites & Requirements
+- **XAMPP Server** must be installed on your machine (includes PHP 8.2+ and MySQL).
+- **Important:** The **Apache** and **MySQL** services in XAMPP must be actively running.
+
+### Step 1: Clone or Download Repository
+Clone this repository into your local environment:
+```bash
+git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
 
 
 ## 🚀 Key Features & Modules
