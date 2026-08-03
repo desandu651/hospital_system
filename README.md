@@ -28,10 +28,11 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
  <img width="1920" height="1198" alt="doctors_staff" src="https://github.com/user-attachments/assets/e922fc1b-a3e3-4341-ade6-5643c3cbd876" />
  
 
-### Appointments Queue | Doctor Working Schedules |
+### 4. Appointments Queue  
 
- Appointments Queue<img width="1920" height="1198" alt="appointments" src="https://github.com/user-attachments/assets/1b31233a-4025-405f-849f-7b3397a96527" />
-  Doctor Schedules <img width="1920" height="1198" alt="schedules" src="https://github.com/user-attachments/assets/e4ab75c8-a3d5-4ca8-aa7e-529dc6594d3a" />
+<img width="1920" height="1198" alt="appointments" src="https://github.com/user-attachments/assets/1b31233a-4025-405f-849f-7b3397a96527" />
+ ### 5. Doctor Schedules 
+  <img width="1920" height="1198" alt="schedules" src="https://github.com/user-attachments/assets/e4ab75c8-a3d5-4ca8-aa7e-529dc6594d3a" />
 
 
 | Clinical Prescriptions |
