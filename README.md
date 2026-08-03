@@ -33,13 +33,13 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 
 <img width="1920" height="1198" alt="appointments" src="https://github.com/user-attachments/assets/1b31233a-4025-405f-849f-7b3397a96527" />
 
- ### 6. Doctor Schedules 
+ ### 6. Schedules 
   <img width="1920" height="1198" alt="schedules" src="https://github.com/user-attachments/assets/e4ab75c8-a3d5-4ca8-aa7e-529dc6594d3a" />
 
 
-| Clinical Prescriptions |
-| :---: |
-| ![Clinical Prescriptions](assets/images/prescriptions.png) |
+### 7. Prescriptions
+<img width="1920" height="1198" alt="prescriptions" src="https://github.com/user-attachments/assets/0078fdc7-fe2d-4bf1-a54f-b74ba53951fc" />
+ 
 
 ### 4. Administration & Finance
 | Patient Billing & Invoices |
