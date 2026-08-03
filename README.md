@@ -1,12 +1,14 @@
 # 🏥 Medi Lanka - Enterprise Hospital Management System (HMS) v2026
 
-![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
-![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)
-![Database](https://img.shields.io/badge/Database-MySQL%208.x-orange)
-![UI Framework](https://img.shields.io/badge/UI-Bootstrap%205%20%7C%20Dark%20Eye--Care-purple)
-![Security](https://img.shields.io/badge/Security-Prepared%20Statements%20%7C%20Secure%20Sessions-red)
+<p>
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-success" alt="Status">
+  <img src="https://img.shields.io/badge/PHP-8.2%2B-blue" alt="PHP Version">
+  <img src="https://img.shields.io/badge/Database-MySQL%208.x-orange" alt="Database">
+  <img src="https://img.shields.io/badge/UI-Bootstrap%205%20%7C%20Dark%20Eye--Care-purple" alt="UI Framework">
+  <img src="https://img.shields.io/badge/Security-Prepared%20Statements%20%7C%20Secure%20Sessions-red" alt="Security">
+</p>
 
-An advanced, high-performance **Enterprise Healthcare Intelligence Platform** engineered for modern medical command centers. It features an ultra-modern **Eye-Care Dark Mode UI** for login and high-contrast, clean professional light layouts for clinical modules to maximize efficiency during intensive hospital shifts.
+An advanced, high-performance **Enterprise Healthcare Intelligence Platform** engineered for modern medical command centers. It features an ultra-modern **Eye-Care Dark Mode UI** for login and high-contrast, clean professional light layouts for clinical modules to maximize efficiency during intensive hospital shifts
 
 ---
 ## 🔑 Default Login Credentials & Quick Start Guide
