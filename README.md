@@ -30,7 +30,8 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 
 | Appointments Queue | Doctor Working Schedules |
 | :---: | :---: |
-| ![Appointments Queue](assets/images/appointments.png) | ![Doctor Schedules](assets/images/schedules.png) |
+| ![Appointments Queue]<img width="1920" height="1198" alt="appointments" src="https://github.com/user-attachments/assets/1b31233a-4025-405f-849f-7b3397a96527" />
+ | ![Doctor Schedules](assets/images/schedules.png) |
 
 | Clinical Prescriptions |
 | :---: |
