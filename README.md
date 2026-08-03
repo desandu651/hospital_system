@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Medi Lanka - Enterprise Hospital Management System (HMS) v2026
+# 🏥 Medi Lanka -Hospital Management System 2026
 
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https://github.com/desandu651/hospital_system)
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue?style=for-the-badge)](https://php.net)
