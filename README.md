@@ -60,13 +60,14 @@
 
 ---
 
-## 🔑 Default Login Credentials & Quick Start Guide
+## ⚙️ Prerequisites & Quick Start Guide
 
-> **Staff ID / Username:** `admin`  
-> **Password:** `admin123`
+### 📋 System Prerequisites
+* **XAMPP** (or any local PHP/MySQL server environment) with **PHP 8.2+** and **MySQL 8.x** installed.
+* Active **Apache** and **MySQL** services running.
 
-### ⚙️ Quick Start Guide
+### 🚀 Installation Steps
 
-1. **Clone the repository:**
+1. **Clone or download the repository:**
    ```bash
    git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
