@@ -18,8 +18,13 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 
 ### 2. Dashboard Analytics
 
+
+<img width="1920" height="1140" alt="dashboard" src="https://github.com/user-attachments/assets/3a497ff7-97bc-40db-9ae1-d1c7c4ede2a3" />
 <img width="1920" height="1198" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e4014e6a-04b8-4d01-ba61-2ebd51ba1e2c" />
  <img width="1920" height="1198" alt="dashboard_analytics" src="https://github.com/user-attachments/assets/2733cb91-e2df-40ad-a5c2-aa8753fc1678" />
+
+
+ 
  
 ### 3. Patients Directory 
 
@@ -78,9 +83,7 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 <img width="1920" height="1198" alt="doctor portal" src="https://github.com/user-attachments/assets/4bfff04a-c35b-4896-8f9a-67526d345b06" />
  
 
-### 8. Patient Billing & Invoices
 
-| ![Billing & Invoices](assets/images/billing.png) |
 
 
 ## 🚀 Key Features & Modules
