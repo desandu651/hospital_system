@@ -41,9 +41,40 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 <img width="1920" height="1198" alt="prescriptions" src="https://github.com/user-attachments/assets/0078fdc7-fe2d-4bf1-a54f-b74ba53951fc" />
  
 
-### 4. Administration & Finance
-| Patient Billing & Invoices |
-| :---: |
+### 8. Billing & Invoices
+
+<img width="1920" height="1198" alt="billing and invoice" src="https://github.com/user-attachments/assets/6e94d8bf-b8c5-4ca0-ba62-1166cc538214" />
+ 
+
+### 8. Patient Billing & Invoices
+
+| ![Billing & Invoices](assets/images/billing.png) |
+
+### 8. Patient Billing & Invoices
+
+| ![Billing & Invoices](assets/images/billing.png) |
+
+### 8. Patient Billing & Invoices
+
+| ![Billing & Invoices](assets/images/billing.png) |
+
+
+### 8. Patient Billing & Invoices
+
+| ![Billing & Invoices](assets/images/billing.png) |
+
+
+### 8. Patient Billing & Invoices
+
+| ![Billing & Invoices](assets/images/billing.png) |
+
+
+### 8. Patient Billing & Invoices
+
+| ![Billing & Invoices](assets/images/billing.png) |
+
+### 8. Patient Billing & Invoices
+
 | ![Billing & Invoices](assets/images/billing.png) |
 
 ---
