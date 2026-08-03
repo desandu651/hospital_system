@@ -91,10 +91,8 @@ To run and evaluate this system locally on your machine, follow these technical 
 - **XAMPP Server** must be installed on your machine (includes PHP 8.2+ and MySQL).
 - **Important:** The **Apache** and **MySQL** services in XAMPP must be actively running.
 
-### Step 1: Clone or Download Repository
-Clone this repository into your local environment:
-```bash
-git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
+
+git clone https://github.com/desandu651/hospital_system.git
 
 
 ## 🚀 Key Features & Modules
