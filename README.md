@@ -51,34 +51,37 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 <img width="1920" height="1198" alt="payroll and stff" src="https://github.com/user-attachments/assets/54879cc5-cc75-4628-83a7-92ed07e42abc" />
  
 
+### 10. Pharmacy Inventory
+
+<img width="1920" height="1198" alt="farmacy" src="https://github.com/user-attachments/assets/a83bcebf-bc13-4510-a25b-609164e5638e" />
+ 
+
+### 11. Laboratory Tests & Results
+
+<img width="1920" height="1198" alt="lab" src="https://github.com/user-attachments/assets/a5ea4ea2-24dd-445d-89c8-0acbb13495f7" />
+ 
+
+
+### 12. Beds & Wards Management
+
+<img width="1920" height="1198" alt="wards" src="https://github.com/user-attachments/assets/7f31506c-9f8c-4d55-a79d-96731caaa4cc" />
+
+
+### 13. Patient Self-Service Portal
+
+<img width="1920" height="1198" alt="patient portal" src="https://github.com/user-attachments/assets/d9e56bcd-9ac5-497f-8c03-5be06a04f583" />
+ 
+
+
+### 14. Doctor Professional Workspace
+
+<img width="1920" height="1198" alt="doctor portal" src="https://github.com/user-attachments/assets/4bfff04a-c35b-4896-8f9a-67526d345b06" />
+ 
+
 ### 8. Patient Billing & Invoices
 
 | ![Billing & Invoices](assets/images/billing.png) |
 
-### 8. Patient Billing & Invoices
-
-| ![Billing & Invoices](assets/images/billing.png) |
-
-
-### 8. Patient Billing & Invoices
-
-| ![Billing & Invoices](assets/images/billing.png) |
-
-
-### 8. Patient Billing & Invoices
-
-| ![Billing & Invoices](assets/images/billing.png) |
-
-
-### 8. Patient Billing & Invoices
-
-| ![Billing & Invoices](assets/images/billing.png) |
-
-### 8. Patient Billing & Invoices
-
-| ![Billing & Invoices](assets/images/billing.png) |
-
----
 
 ## 🚀 Key Features & Modules
 
