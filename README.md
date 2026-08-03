@@ -18,7 +18,7 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 
 ### 2. Dashboard Analytics
 
- ![Dashboard Overview]<img width="1920" height="1198" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e4014e6a-04b8-4d01-ba61-2ebd51ba1e2c" />
+<img width="1920" height="1198" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e4014e6a-04b8-4d01-ba61-2ebd51ba1e2c" />
  |<img width="1920" height="1198" alt="dashboard_analytics" src="https://github.com/user-attachments/assets/2733cb91-e2df-40ad-a5c2-aa8753fc1678" />
  
 ### 3. Clinical Management Modules
