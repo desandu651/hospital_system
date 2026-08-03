@@ -1,38 +1,21 @@
 <div align="center">
 
-# 🏥 Medi Lanka -Hospital Management System 2026
+# 🏥 Medi Lanka - Hospital Management System (HMS)
+
+<img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=flat-square">
+<img src="https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Database-MySQL-orange?style=flat-square">
+
+*An advanced enterprise healthcare platform designed for modern medical command centers.*
 
 </div>
 
 ---
 
----
-
-
-## 🔑 Default Login Credentials & Quick Start Guide
-
-> **Staff ID / Username:** `admin`  
-> **Password:** `admin123`
-
-### ⚙️ Quick Start Guide
-
-1. Open the **XAMPP Control Panel** and click **Start** next to both **Apache** and **MySQL**.
-2. Ensure your project folder (`hospital_system`) is placed inside the XAMPP `htdocs` directory (e.g., `C:\xampp\htdocs\hospital_system\`).
-3. Open your web browser, navigate to `http://localhost/phpmyadmin`, create a new database named **`hms_db`**, and import the required SQL schema/data files.
-4. Open your web browser and load the application URL:
-   ```text
-   http://localhost/hospital_system/
-
-   ## ⚙️ How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
-
-## 📸 System Screenshots & Module Gallery
+## 📸 System Screenshots
 
 ### 1. Secure Authentication Portal
-<img width="1920" height="1140" alt="login_screenshot" src="https://github.com/user-attachments/assets/e75986b6-974a-4cc2-bc4c-c14aadc3238e" />
+<img width="1920" height="1140" alt="login" src="https://github.com/user-attachments/assets/e75986b6-974a-4cc2-bc4c-c14aadc3238e" />
 
 ### 2. Dashboard Analytics
 <img width="1920" height="1140" alt="dashboard" src="https://github.com/user-attachments/assets/3a497ff7-97bc-40db-9ae1-d1c7c4ede2a3" />
@@ -40,10 +23,10 @@
 <img width="1920" height="1198" alt="dashboard_analytics" src="https://github.com/user-attachments/assets/2733cb91-e2df-40ad-a5c2-aa8753fc1678" />
 
 ### 3. Patients Directory
-<img width="1920" height="1198" alt="patients_directory" src="https://github.com/user-attachments/assets/aa8c8b28-9cc5-441c-aaf3-04ffdd2faa91" />
+<img width="1920" height="1198" alt="patients" src="https://github.com/user-attachments/assets/aa8c8b28-9cc5-441c-aaf3-04ffdd2faa91" />
 
 ### 4. Doctors Staff
-<img width="1920" height="1198" alt="doctors_staff" src="https://github.com/user-attachments/assets/e922fc1b-a3e3-4341-ade6-5643c3cbd876" />
+<img width="1920" height="1198" alt="doctors" src="https://github.com/user-attachments/assets/e922fc1b-a3e3-4341-ade6-5643c3cbd876" />
 
 ### 5. Appointments
 <img width="1920" height="1198" alt="appointments" src="https://github.com/user-attachments/assets/1b31233a-4025-405f-849f-7b3397a96527" />
@@ -55,13 +38,13 @@
 <img width="1920" height="1198" alt="prescriptions" src="https://github.com/user-attachments/assets/0078fdc7-fe2d-4bf1-a54f-b74ba53951fc" />
 
 ### 8. Billing & Invoices
-<img width="1920" height="1198" alt="billing and invoice" src="https://github.com/user-attachments/assets/6e94d8bf-b8c5-4ca0-ba62-1166cc538214" />
+<img width="1920" height="1198" alt="billing" src="https://github.com/user-attachments/assets/6e94d8bf-b8c5-4ca0-ba62-1166cc538214" />
 
 ### 9. Payroll & Staff
-<img width="1920" height="1198" alt="payroll and stff" src="https://github.com/user-attachments/assets/54879cc5-cc75-4628-83a7-92ed07e42abc" />
+<img width="1920" height="1198" alt="payroll" src="https://github.com/user-attachments/assets/54879cc5-cc75-4628-83a7-92ed07e42abc" />
 
 ### 10. Pharmacy Inventory
-<img width="1920" height="1198" alt="farmacy" src="https://github.com/user-attachments/assets/a83bcebf-bc13-4510-a25b-609164e5638e" />
+<img width="1920" height="1198" alt="pharmacy" src="https://github.com/user-attachments/assets/a83bcebf-bc13-4510-a25b-609164e5638e" />
 
 ### 11. Laboratory Tests & Results
 <img width="1920" height="1198" alt="lab" src="https://github.com/user-attachments/assets/a5ea4ea2-24dd-445d-89c8-0acbb13495f7" />
@@ -77,42 +60,8 @@
 
 ---
 
-## 🚀 Key Features & Modules
+## ⚙️ How to Run Locally
 
-- **Ultra-Modern 2026 UI/UX**: Eye-care dark theme login paired with a clean, high-visibility medical command dashboard.
-- **Real-time Telemetry & Analytics**: Live tracking of monthly revenue, patient influx, appointment statuses, and dynamic calendar scheduling.
-- **Comprehensive Clinical Directory**: Complete management modules for Patients, Specialist Doctors, Clinical Schedules, and Prescriptions.
-- **Billing & Invoice Automation**: Streamlined tracking of patient service fees, payment states (Paid, Unpaid, Partial), and financial logs.
-- **Secure Authentication**: Built with PHP Sessions and MySQLi Prepared Statements to prevent SQL Injection and unauthorized access.
-
----
-
-## 🛠️ Technology Stack
-
-| Layer | Technology Used |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Bootstrap Icons |
-| **Typography** | Google Fonts (`Inter`, `Plus Jakarta Sans`) |
-| **Backend** | PHP (Object-Oriented & Procedural Hybrid Architecture) |
-| **Database** | MySQL (Managed via phpMyAdmin / XAMPP) |
-| **Environment** | XAMPP (Apache HTTP Server & MySQL Database Server) |
-
----
-
-## 📂 Project Directory Structure
-
-```text
-hospital_system/
-│
-├── index.php                # Secure Login Portal (Eye-Care Dark Theme)
-├── dashboard.php            # Real-time Medical Command Center Dashboard
-├── manage_patients.php      # Patient Directory Management
-├── manage_doctors.php       # Clinical Doctors Staff Registry
-├── manage_appointments.php  # Appointment Queues & Booking Control
-├── doctor_schedules.php     # Doctor Working Schedules & Time Slots
-├── manage_prescriptions.php # Issued Medical Prescriptions Handler
-├── billing.php              # Patient Billing & Invoices Ledger
-├── db.php                   # Database Connection & Configuration Handler
-├── logout.php               # Session Termination & Security Cleanup
-└── assets/                  # Stylesheets, Custom Scripts, and Media Files
-    └── images/              # System Screenshots Gallery
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/desandu651/hospital_system.git](https://github.com/desandu651/hospital_system.git)
