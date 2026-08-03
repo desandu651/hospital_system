@@ -1,4 +1,4 @@
-<img width="1920" height="1198" alt="patients_directory" src="https://github.com/user-attachments/assets/3e8f708d-a3a3-47c8-824a-eab5b9e7ffae" /># 🏥 Medi Lanka - Enterprise Hospital Management System (HMS) v2026
+ 🏥 Medi Lanka - Enterprise Hospital Management System (HMS) v2026
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)
