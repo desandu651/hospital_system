@@ -21,17 +21,18 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 <img width="1920" height="1198" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e4014e6a-04b8-4d01-ba61-2ebd51ba1e2c" />
  <img width="1920" height="1198" alt="dashboard_analytics" src="https://github.com/user-attachments/assets/2733cb91-e2df-40ad-a5c2-aa8753fc1678" />
  
-### 3. Patients Directory & Doctors Staff
+### 3. Patients Directory 
 
 <img width="1920" height="1198" alt="patients_directory" src="https://github.com/user-attachments/assets/aa8c8b28-9cc5-441c-aaf3-04ffdd2faa91" />
-
+### 4.  Doctors Staff
  <img width="1920" height="1198" alt="doctors_staff" src="https://github.com/user-attachments/assets/e922fc1b-a3e3-4341-ade6-5643c3cbd876" />
  
 
-### 4. Appointments Queue  
+### 5. Appointments Queue  
 
 <img width="1920" height="1198" alt="appointments" src="https://github.com/user-attachments/assets/1b31233a-4025-405f-849f-7b3397a96527" />
- ### 5. Doctor Schedules 
+
+ ### 6. Doctor Schedules 
   <img width="1920" height="1198" alt="schedules" src="https://github.com/user-attachments/assets/e4ab75c8-a3d5-4ca8-aa7e-529dc6594d3a" />
 
 
