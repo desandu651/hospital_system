@@ -1,4 +1,4 @@
-# Medi Lanka - Hospital Management System 2026
+# 🏥 Medi Lanka - Enterprise Hospital Management System (HMS) v2026
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)
@@ -10,18 +10,13 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 
 ---
 
-## ⚠️ IMPORTANT: Mandatory Server Requirement (XAMPP)
+## 📸 System Screenshots & Interface Preview
 
-To run this system successfully, **XAMPP must be installed**, and both **Apache** and **MySQL** services **must be actively running** before accessing the platform in your browser. Without starting Apache and MySQL via the XAMPP Control Panel, the PHP scripts and database connections will fail.
+*(Tip: Place your actual screenshot images inside an `assets/images/` folder in your repository and link them below)*
 
----
-
-## 🔑 Default Login Credentials
-
-Use the following pre-configured administrative credentials to log directly into the command center portal:
-
-- **Username / Staff ID:** `admin`
-- **Password:** `admin123`
+| Secure Login Portal (Eye-Care Dark Theme) | Real-time Medical Command Center |
+| :---: | :---: |
+| ![Login UI](assets/images/login_screenshot.png) | ![Dashboard UI](assets/images/dashboard_screenshot.png) |
 
 ---
 
