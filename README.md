@@ -22,8 +22,7 @@ An advanced, high-performance **Enterprise Healthcare Intelligence Platform** en
 ### 2. Executive Command Center & Dashboard Analytics
 | Dashboard Overview & Quick Metrics | Financial Analytics & Calendar |
 | :---: | :---: |
-| ![Dashboard Overview](<img width="1920" height="1140" alt="login_screenshot" src="https://github.com/user-attachments/assets/c577b132-dc31-4559-a99c-9916bf86a1e4" />
-.png) | ![Dashboard Analytics](assets/images/dashboard_analytics.png) |
+| ![Dashboard Overview](assets/images/dashboard_overview.png) | ![Dashboard Analytics](assets/images/dashboard_analytics.png) |
 
 | Recent Appointments & System Audit Logs |
 | :---: |
