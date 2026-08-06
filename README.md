@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Medi Lanka - Hospital Management System (HMS)
+# 🏥 Medi Lanka - Hospital Management System 
 
 <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=flat-square">
 <img src="https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square">
@@ -64,7 +64,7 @@
 
 1. **Clone or download the repository:**
    ```bash
-   git clone https://github.com/desandu651/hospital_system
+   git clone https://github.com/desanduc/hospital_system
 
 
 ## ⚙️ Prerequisites & Quick Start Guide
